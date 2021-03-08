@@ -1,0 +1,38 @@
+	
+	 .board_whole_area			{ text-align: center;	  box-sizing : border-box;	}
+    
+	 .subtitle					{	font-size:150%;		font-family: fantasy;		color: red;	  text-align:center; }
+
+	 table						{ text-align:center; 	border     : 0;	border-spacing: 0; 	margin-bottom: 10%;	padding: 0; width: 100%; border: 1px solid #444444;}
+
+     .title						{ background-color:#999999;  width: 100%; height:80%; }
+
+	 .boardin					{ text-align: left;  width: 100%;	height: 200px;	 }
+
+	 .board_title				{ width: 50%; }
+
+	 .board_subtitle			{ color:blue;	padding-top : 2%; }
+
+	 .list-table th, td			{ border: 1px solid #444444; }
+
+	 .list-table td				{ height: 350px}
+
+	 .post_additional			{ text-align: right; }
+
+	 .line						{ width:100%; color:"blue"; }
+
+	 .reply_in					{ width:100%; height:80px; }
+
+	 .comment					{ width:90% }
+
+	 .edit_zone					{ display:none }
+
+	 .rereply_zone				{ display:none }
+
+	 .delete_confirm_zone		{ display:none }
+
+	 .download_confirm_zone		{ display:none }
+
+	 .rreply_form				{ font-size:75%; margin-left:20px; }
+
+	 .reply_editarea			{ width:100%; height:100px; }

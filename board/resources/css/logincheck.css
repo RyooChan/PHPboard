@@ -1,0 +1,40 @@
+	 .login_whole {	text-align: center;	position:fixed;	margin:0 auto;	left:0;	right:0;  width: 40%;	margin-top : 8%;	box-sizing : border-box;	border: 1px solid #444444; }
+
+	 .subtitle	  {	font-size:150%;		font-family: fantasy;  color: red;	 }
+
+	 table		  {	text-align:center; 	border     : 0;	border-spacing: 0; 	margin-bottom: 10%;	padding: 0; width: 100%;  height: 90%; }
+
+	 .col1		  {	width: 50%;	 }
+
+	 .col2		  {	width: 50%;	 }
+
+	 .input		  {	padding:0%;		width: 100%;		height: 70%;		text-align: center;	 }
+
+	 a:visited 	  {	text-decoration: none; color: #red; }
+	 
+	 a:link		  {	text-decoration:none; width:10%; color: green; }
+
+	 .login	      {	width: 100%;  height: 100%;	 }
+
+	.reg_find     {	padding-top:10%; }
+
+	 #regist	  {	text-decoration:none; }
+
+	 .entrybtn    {	width : 60%;  height : 150px; }
+
+
+	
+	 .register_whole {	text-align: center;	position:fixed;	margin:0 auto;	left:0;	right:0;  width: 40%;	margin-top : 8%;	box-sizing : border-box;	border: 1px solid #444444;   }
+
+
+/*
+	.board_whole_area { text-align:center}
+
+	.board_subtitle { font-size:120% ; }
+
+	.output	{ text-align:center}
+*/
+
+
+
+	.withdraw_whole  { text-align: center; width: 40%; margin:0 auto; left:0; right:0; padding-top:80px; padding-bottom:80px; margin-top : 8%; box-sizing : border-box; border: 1px solid #444444; }

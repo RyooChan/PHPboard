@@ -1,0 +1,4 @@
+	 .board_whole				{ text-align: center;	position:fixed;	margin:0 auto; left:0;	right:0;  width: 100%;  margin-top : 2%;  box-sizing : border-box;	border: 1px solid #444444; }
+    
+	 .subtitle	  {	font-size:150%;		font-family: fantasy;		color: red;	  text-align:center;   }
+

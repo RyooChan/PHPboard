@@ -1,0 +1,25 @@
+	.board_whole_area				{ text-align: center;	  box-sizing : border-box;	}
+
+	 .subtitle						{	font-size:150%;		font-family: fantasy;		color: red;	 }
+
+
+
+
+	 table							{	text-align:center; 	border     : 0;	border-spacing: 0; 	margin-bottom: 10%;	padding: 0; width: 100%;  height: 90%; border:1px solid #444444;  }
+
+	 th, td							{  border: 1px solid #444444; }
+
+
+
+	 .board_num						{ width:10% }
+
+ 	 .board_title					{ width:60% }
+
+	 .board_writer					{ width:30% }
+
+
+	 .writebtn						{ float:right; width : 100px;  height : 70px;}
+
+	 .logoutbtn						{ float:left; width : 100px;  height : 70px; }
+
+	 .board_foot					{ text-align:center; }
